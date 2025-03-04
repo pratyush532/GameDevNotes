@@ -643,3 +643,13 @@ public class TriggerProjectile : MonoBehaviour
 ```
 
 Also add Object hit.cs to change color for projectiles in PREFAB
+
+
+https://qiita.com/youtoy/items/c416a44530dab79e8340
+https://dev.to/works_ai_makoto_a67a7ff7e/use-ai-tools-with-wsl-step-by-step-guide-to-installing-dify-on-windows-11-2doe
+https://tech-study-blog.com/wsl2%E3%81%A7dify%E3%82%92%E4%BD%BF%E3%81%86/
+https://zenn.dev/yakumo3/articles/415f83ed3f7cb7
+https://zenn.dev/shintaroamaike/articles/8a63bdb7dad992
+
+
+https://note.com/itella/n/n28ecccdb72e3
