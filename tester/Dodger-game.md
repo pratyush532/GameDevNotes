@@ -643,13 +643,14 @@ public class TriggerProjectile : MonoBehaviour
 ```
 
 Also add Object hit.cs to change color for projectiles in PREFAB
-
+- dify dev to wsl setup: https://www.google.com/search?q=dify+dev+to+wsl+setup&oq=dify+dev+to+wsl+setup&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEINzg3NmowajSoAgCwAgE&sourceid=chrome&ie=UTF-8
 
 - https://qiita.com/youtoy/items/c416a44530dab79e8340
 - https://dev.to/works_ai_makoto_a67a7ff7e/use-ai-tools-with-wsl-step-by-step-guide-to-installing-dify-on-windows-11-2doe
 - https://tech-study-blog.com/wsl2%E3%81%A7dify%E3%82%92%E4%BD%BF%E3%81%86/
 - https://zenn.dev/yakumo3/articles/415f83ed3f7cb7
 - https://zenn.dev/shintaroamaike/articles/8a63bdb7dad992
-
-
+-- https://ramble.impl.co.jp/7917/
+-- detailed -  https://qiita.com/awakun/items/243454e0e5f11398dc91
+---
 - https://note.com/itella/n/n28ecccdb72e3
